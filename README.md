@@ -1,4 +1,4 @@
-# Terraform_Script_to_Deploy_WordPress_Application
+# Terraform Script to Deploy WordPress Application in AWS
 This Terraform code is designed to create an Amazon Virtual Private Cloud (VPC) along with associated subnets for an EC2 instance and an RDS database. Additionally, it provisions security groups for both resources and an Elastic IP for the EC2 instance. The EC2 instance is configured to run a WordPress container using PHP-FPM, and the RDS instance is set up as a MySQL database. Below are the steps to use this code.
 
 # Requirements
